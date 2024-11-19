@@ -12,8 +12,8 @@ The dataset contains the following columns:
 
 ### Project Outline
 1. Data cleaning and Prepartion. (Using Google Sheets and MySQL)
- - Import data into MySQL.
- - Perform basic data cleaning: handle missing values, correct any data type inconsistencies.
- - Export and further analyze the data in Google Sheets for basic exploratory analysis.
+   - Import data into MySQL.
+   - Perform basic data cleaning: handle missing values, correct any data type inconsistencies.
+   - Export and further analyze the data in Google Sheets for basic exploratory analysis.
 2. 
 3. 
