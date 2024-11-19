@@ -26,5 +26,5 @@ The dataset contains the following columns:
   
 ## Final result:
 
-![Alt text for the screenshot](Screenshot%202024-11-12%20220512.png)
+![Salary Dashboard](Screenshot%202024-11-12%20220512.png)
 
