@@ -1,4 +1,4 @@
-# Salary Portfolio Project
+# Salary Portfolio Project :heavy_dollar_sign:
 
 ### In this dataset we have data that measures the salaries of individuals based on several factors.  Salary information for employees, along with additional details like age, gender, education level, job title, and years of experience. 
 
