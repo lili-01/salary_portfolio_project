@@ -10,3 +10,10 @@ The dataset contains the following columns:
 5. **Years of Experience**: The total number of years of experience the employee has.
 6. **Salary**: The annual salary of the employee.
 
+### Project Outline
+1. Data cleaning and Prepartion. (Using Google Sheets and MySQL)
+ - Import data into MySQL.
+ - Perform basic data cleaning: handle missing values, correct any data type inconsistencies.
+ - Export and further analyze the data in Google Sheets for basic exploratory analysis.
+2. 
+3. 
