@@ -24,3 +24,6 @@ The dataset contains the following columns:
    - Mesh and tie everything together and create a Power BI dashboard.
    - Document steps and insights in Google doc
   
+## Final result:
+
+! [Screenshot 2024-11-12 220512.png]
