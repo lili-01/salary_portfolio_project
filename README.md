@@ -26,4 +26,4 @@ The dataset contains the following columns:
   
 ## Final result:
 
-! [Screenshot 2024-11-12 220512.png]
+! [salary_portfolio_project/Screenshot 2024-11-12 220512.png]
