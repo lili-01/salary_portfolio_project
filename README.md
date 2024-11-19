@@ -12,8 +12,15 @@ The dataset contains the following columns:
 
 ### Project Outline
 1. Data cleaning and Prepartion. (Using Google Sheets and MySQL)
-   - Import data into MySQL.
+   - Import data into Google Sheets.
    - Perform basic data cleaning: handle missing values, correct any data type inconsistencies.
-   - Export and further analyze the data in Google Sheets for basic exploratory analysis.
-2. 
-3. 
+   - Export and further analyze the data in MySQL exploratory analysis.
+2. Advanced Analysis
+   - Using SQL queries to extract meaningful insights (e.g., comparing average salaries by education level, gender, or experience)
+3. Exploratory Data Analysis (using Power BI)
+   - Visualize key metrics like salary distribution, average salary by job title, gender breakdown, etc.
+   - Create insightful charts (like bar charts, pie charts, and line graphs) in Power BI.
+4. Presentation & Portfolio Documentation
+   - Mesh and tie everything together and create a Power BI dashboard.
+   - Document steps and insights in Google doc
+  
