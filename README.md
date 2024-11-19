@@ -26,4 +26,4 @@ The dataset contains the following columns:
   
 ## Final result:
 
-! (main/salary_portfolio_project/Screenshot 2024-11-12 220512.png)
+! ([main/salary_portfolio_project/Screenshot 2024-11-12 220512.png](https://github.com/lili-01/salary_portfolio_project/blob/main/Screenshot%202024-11-12%20220512.png))
